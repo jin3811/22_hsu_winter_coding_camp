@@ -1,3 +1,7 @@
+# test file to run C, C++ file
 test.cpp
+test.c
+
+# ide config
 .vscode/
 /**/.idea/
