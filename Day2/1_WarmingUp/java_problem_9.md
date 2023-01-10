@@ -1,0 +1,1 @@
+ Day1/2_project 완성함.
