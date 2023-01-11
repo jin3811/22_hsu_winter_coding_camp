@@ -5,3 +5,4 @@ test.c
 # ide config
 .vscode/
 /**/.idea/
+/**/out/
