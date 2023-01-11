@@ -17,7 +17,7 @@ public class Validation {
         // 지도를 복사해서 사용한다.
         makeCopyGraph(graph);
         // R -> E 경로가 있는지 조사.
-        boolean result = dfs(graph.length - 1, 0);
+        boolean result = dfs(graph[0].length - 1, 0);
         // R에서 E로 가는 경로가 없다면 유효성X
         if (!result) return false;
 

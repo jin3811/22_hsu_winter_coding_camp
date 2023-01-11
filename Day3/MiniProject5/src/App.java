@@ -25,8 +25,6 @@ public class App {
             } else break;
         }
 
-        System.out.println("맵이 생성되었습니다.");
-
         new HuntingGame(r, c, x, o);
     }
 }
